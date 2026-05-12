@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LOGFILE=~/fireops-soc/docs/wazuh-install.log
+LOGFILE=~/FireOps-SOC/docs/wazuh-install.log
 
 echo "[+] Starting FireOps SOC setup..." | tee -a $LOGFILE
 
