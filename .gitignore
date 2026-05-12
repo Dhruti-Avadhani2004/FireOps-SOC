@@ -1,0 +1,9 @@
+*.log
+*.tar
+*.zip
+*.deb
+*.iso
+*.qcow2
+*.vdi
+opensearch-data/
+wazuh-indexer-data/
